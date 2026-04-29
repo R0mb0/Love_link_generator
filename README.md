@@ -11,6 +11,17 @@
 A cute and incredibly easy-to-use companion web app to generate custom, interactive Valentine's Day proposal links! Just type the name of your special someone, hit generate, and share the magic instantly. No coding skills required to spread the love!
 </p>
 
+<div align="center">
+  <a href="http://paypal.me/R0mb0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Light.svg">
+      <img alt="Saved you time? Support the dev" src="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Default.svg">
+    </picture>
+  </a>
+</div>
+
+
 
 <h2><a href="https://r0mb0.github.io/Love_link_generator/">👉 Click here to create your custom link! 👈</a></h2>
 
